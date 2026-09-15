@@ -40,7 +40,7 @@ https://raw.githubusercontent.com/paomian1hao/wloc-spoofer-en/refs/heads/main/mo
 直接用快捷指令切换 / 清除定位，无需打开选点页面：
 
 - **wloc 设置位置**：https://www.icloud.com/shortcuts/d49961b18e51476eaaeb3a1a25c67768
-- **wloc Clear & Restore Location**：https://www.icloud.com/shortcuts/0352d53ed79849d382f50e9adf050662
+- **清除位置**：https://www.icloud.com/shortcuts/296c0b7606e545b8bada29a18e00665b
 
 **用法**
 
