@@ -1,5 +1,5 @@
 #!name=Apple WLOC Location Spoofer
-#!desc=Modify the coordinates returned by Apple's network-based location service (WiFi/cell) | Shortcuts (recommended): Set Location https://www.icloud.com/shortcuts/d49961b18e51476eaaeb3a1a25c67768 Clear Location https://www.icloud.com/shortcuts/296c0b7606e545b8bada29a18e00665b | Picker page: https://wloc-spoofer-en.1169139588.workers.dev/
+#!desc=Modify the coordinates returned by Apple's network-based location service (WiFi/cell) | Shortcuts (recommended): Set Location https://www.icloud.com/shortcuts/096685588ca14583b01908957219b626 Clear Location https://www.icloud.com/shortcuts/cd0c9258d08f45c1a075ca5fe85a8387 | Picker page: https://wloc-spoofer-en.1169139588.workers.dev/
 #!author=Yu9191 Rewrite
 #!homepage=https://github.com/paomian1hao/wloc-spoofer-en
 #!category=Tools
