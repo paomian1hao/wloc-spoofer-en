@@ -39,7 +39,7 @@ https://raw.githubusercontent.com/paomian1hao/wloc-spoofer-en/refs/heads/main/mo
 
 直接用快捷指令切换 / 清除定位，无需打开选点页面：
 
-- **wloc Set Location**：https://www.icloud.com/shortcuts/182f3a014597468eb1b15b99261cdf22
+- **wloc 设置位置**：https://www.icloud.com/shortcuts/d49961b18e51476eaaeb3a1a25c67768
 - **wloc Clear & Restore Location**：https://www.icloud.com/shortcuts/0352d53ed79849d382f50e9adf050662
 
 **用法**
@@ -47,7 +47,7 @@ https://raw.githubusercontent.com/paomian1hao/wloc-spoofer-en/refs/heads/main/mo
 - **设置位置：** 在地图 App 里选好位置（长按地图选点）→ 共享 → 选「wloc Set Location」即可切换。
   - 苹果地图：选点 → 共享 → 「wloc Set Location」
   - 高德地图：选点 → 分享 → **更多** → 「wloc Set Location」
-- **清理位置：** 点「wloc Clear & Restore Location」即可恢复真实定位。
+- **清理位置：** 点「WLOC 清除并恢复定位」即可恢复真实定位。
 
 支持苹果地图、高德（含短链，自动跟跳转 + GCJ-02→WGS84 坐标换算）。
 

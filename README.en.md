@@ -39,7 +39,7 @@ https://raw.githubusercontent.com/paomian1hao/wloc-spoofer-en/refs/heads/main/mo
 
 Switch / clear the location straight from the Shortcuts app, without opening the picker page:
 
-- **wloc Set Location**: https://www.icloud.com/shortcuts/182f3a014597468eb1b15b99261cdf22
+- **wloc 设置位置**: https://www.icloud.com/shortcuts/d49961b18e51476eaaeb3a1a25c67768
 - **wloc Clear & Restore Location**: https://www.icloud.com/shortcuts/0352d53ed79849d382f50e9adf050662
 
 **Usage**
@@ -47,7 +47,7 @@ Switch / clear the location straight from the Shortcuts app, without opening the
 - **Set location:** pick a spot in a Maps app (long-press the map to drop a pin) → Share → choose "wloc Set Location" to switch.
   - Apple Maps: pick a spot → Share → "wloc Set Location"
   - Amap: pick a spot → Share → **More** → "wloc Set Location"
-- **Clear location:** tap "wloc Clear & Restore Location" to restore your real location.
+- **Clear location:** tap "WLOC 清除并恢复定位" to restore your real location.
 
 Supports Apple Maps and Amap (including short links, with automatic redirect following + GCJ-02→WGS84 coordinate conversion).
 
